@@ -3,5 +3,8 @@
     "products": [],
     "cars":[],
     "wishlist":[],
-    "car": []
+    "car": [],
+    "login": [],
+    "signup": [],
+    "list": []
 }
